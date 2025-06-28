@@ -3,7 +3,7 @@
 # Overview
 Ce projet de Machine Learning a pour objectif de prédire les prix des voitures en se basant sur diverses caractéristiques techniques. En partant d'un jeu de données riche, nous avons exploré les variables, nettoyé les données, puis construit et comparé différents modèles prédictifs.
 
-# Project Objectives
+## Project Objectives
 -Réaliser une analyse exploratoire des données (EDA) pour comprendre la structure et les distributions.
 -Nettoyer et préparer les données pour l'entraînement des modèles.
 -Construire des modèles de régression pour prédire le prix des voitures.
